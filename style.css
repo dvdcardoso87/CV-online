@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background-image: url(./images/background.jpg);
+
+}
+
+.cabecalho{
+   width: 100%;
+   height: 415px;
+
+}
+
+
+h1{
+width: 500px;
+margin-left: 100px;
+margin-top: 50px;
+}
+
+.foto{
+    width: 300px;
+    margin-left: 100px;
+
+}
+
+h2{
+    font-size: 30px;
+    margin-left: 100px;
+    color: blue;
+}
+
+h3{
+    font-size: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 100px;
+}
+
+h4{
+    font-size: 15px;
+    margin-left: 100px;
+}
+
+span{
+    font-size: 30px;
+    color: blue;
+
+}
+
+h5{
+    font-size: 50px;
+    margin-left: 100px;
+}
+
+.certificado{
+    width: 300px;
+    margin-left: 100px;
+
+}
+
+.linkedin{
+    width: 70px;
+    margin-top: 10px;
+}
